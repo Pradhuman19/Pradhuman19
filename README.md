@@ -1,5 +1,5 @@
 # 💫 Hello World! :
-🔭I'm currently working on Full-Stack Projects<br>👯I'm looking to collaborate on WebD<br>🤝I'm looking for help with Web3<br>💬Ask me about Development, Tech, and Games.<br>⚡Fun fact: I love to work on Computer Graphics, currently learning openGL and Vulkan, DirectX are the next.
+🔭I'm currently working on Computer Graphics Projects<br>👯I'm looking to collaborate on WebD/OpenGL<br>🤝I'm looking for help with Backend<br>💬Ask me about Development, Tech, and Games.<br>⚡Fun fact: I love to work on Computer Graphics, currently learning openGL with Vulkan, DirectX to be learn.
 
 
 ## 🌐 Socials:
